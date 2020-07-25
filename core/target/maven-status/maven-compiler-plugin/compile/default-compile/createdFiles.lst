@@ -1,0 +1,8 @@
+com\speedy\food\dto\InputDto.class
+com\speedy\food\dto\OutputDto.class
+com\speedy\food\resources\AbstractResource.class
+com\speedy\food\services\AbstractService.class
+com\speedy\food\model\DateAudit.class
+com\speedy\food\Mapper.class
+com\speedy\food\CoreApplication.class
+com\speedy\food\model\Entity.class
